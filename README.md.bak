@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# find_vm_ip
-=======
 # find_vm_ip
 
 `find_vm_ip` is a Python program that helps users locate the IP address of a virtual machine (VM) on their local network using its MAC address. It also allows users to create custom scripts for specific VMs.
@@ -73,4 +70,3 @@
 ## Disclaimer
 
 - This program uses `sudo` privileges to run `arp-scan`. You do not need to run the program as `sudo`, however, if you experience any issues try running as `sudo`.
->>>>>>> 888d2a9 (Add local README.md)
