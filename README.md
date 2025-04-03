@@ -39,7 +39,7 @@
 
 - Run the generated script to find the VM's IP address and connect via SSH:
 
-- python3 find_<vmname>.py
+- python3 find_< vmname >.py
 
 ### Example
 
